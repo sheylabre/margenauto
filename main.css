@@ -1,12 +1,10 @@
-.cuadro p {
-	text-align: center;
+.cuadro{
 	border: 10px solid #FDF736;
 	width: 200px;
 	margin: 5px auto auto 5px ;
 	text-align: left;
 	padding: 30px;	
 }
-
 .new{
 	margin: 5px auto;
 	text-align: center;
